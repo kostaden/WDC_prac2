@@ -2,6 +2,11 @@
 h1.task2-2 {
     font-family: sans-serif;
 }
+
+mark.task2-2 {
+    background-color: pink;
+    color: darkblue;
+}
 p.task2-2 {
     font-family: serif;
 }
